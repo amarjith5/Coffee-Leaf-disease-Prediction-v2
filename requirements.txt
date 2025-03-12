@@ -1,0 +1,27 @@
+# Core dependencies
+tensorflow
+numpy
+Pillow
+matplotlib
+scikit-learn
+pandas
+opencv-python
+
+# For the web application
+streamlit
+watchdog
+
+# Development tools
+pytest
+black
+flake8
+
+# Utilities
+tqdm
+h5py
+pyyaml
+
+# Other dependencies
+requests
+beautifulsoup4
+dotenv
